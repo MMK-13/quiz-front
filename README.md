@@ -1,1 +1,1 @@
-# quiz-front
+# Quiz front side developped in React.js
